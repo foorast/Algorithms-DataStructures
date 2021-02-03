@@ -4,7 +4,7 @@
 
 
 def integer_arr():
-    with open("Week_2/IntegerArray.txt", "r") as f:
+    with open("IntegerArray.txt", "r") as f:
         my_list = [int(i) for i in f]
 
     return my_list
