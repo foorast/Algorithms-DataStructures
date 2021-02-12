@@ -1,6 +1,6 @@
 # Algorithms-DataStructures
 This is a repository to store all of my work from studying algorithms and data structures.
-Below you will find a list of problems I have solved as practice from either LeetCode or online classes.
+Below you will find a list of problems I have solved for practice from either LeetCode or online classes.
 
 # Divide and Conquer, Sorting and Searching, and Randomized Algorithms
 This is the first class within the Algorithms specialization offered by Standford University online.
