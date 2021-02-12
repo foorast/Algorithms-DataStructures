@@ -5,12 +5,12 @@ Below you will find a list of problems I have solved for practice from either Le
 # Standford University's alogorithms specialization
 
 **Week One - Karatsuba.py**
-This first assignment asks to find the product of two 64-digit numbers using Karatsuba's Algorithm.
+this first assignment asks to find the product of two 64-digit numbers using Karatsuba's Algorithm.
 
 **Week Two - IntegerArray.py**
-This assignment provides a IntegerArray.txt file with 100,000 integers between 1 - 100,000 with none repeating. The assignment asks to find the number of inversions in the file.
+this assignment provides a IntegerArray.txt file with 100,000 integers between 1 - 100,000 with none repeating. The assignment asks to find the number of inversions in the file.
 
 # LeetCode
 
 **Valid Anagram.py**
-This problem asks given two string s and t, write a function to determine if t is an anagram of s
+this problem asks given two string s and t, write a function to determine if t is an anagram of s
