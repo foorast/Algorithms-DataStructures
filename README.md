@@ -2,8 +2,7 @@
 This is a repository to store all of my work from studying algorithms and data structures.
 Below you will find a list of problems I have solved for practice from either LeetCode or online classes.
 
-# Divide and Conquer, Sorting and Searching, and Randomized Algorithms
-This is the first class within the Algorithms specialization offered by Standford University online.
+# Standford University's alogorithms specialization
 
 **Week One - Karatsuba.py**
 This first assignment asks to find the product of two 64-digit numbers using Karatsuba's Algorithm.
@@ -14,4 +13,4 @@ This assignment provides a IntegerArray.txt file with 100,000 integers between 1
 # LeetCode
 
 **Valid Anagram.py**
-Given two string s and t, write a function to determine if t is an anagram of s
+This problem asks given two string s and t, write a function to determine if t is an anagram of s
