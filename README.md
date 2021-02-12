@@ -14,3 +14,6 @@ this assignment provides a IntegerArray.txt file with 100,000 integers between 1
 
 **Valid Anagram.py**
 this problem asks given two string s and t, write a function to determine if t is an anagram of s
+
+**Steps To Zero.py**
+this problem asks given a non-negative integer num, return the number of steps to reduce it to zero. If the current number is even, you have to divide it by 2, otherwise, you have to subtract 1 from it.
