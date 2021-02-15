@@ -58,5 +58,5 @@ def quickSort(arr1, low, high):
 if __name__ == '__main__':
     with open("QuickSort.txt", "r") as f:
         my_list = [int(i) for i in f]
-    quickSort(my_list, 0, len(my_list)-1)
+    quickSort(my_list, 0, len(my_list))
     print(my_list)
